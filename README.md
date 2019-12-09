@@ -1,8 +1,8 @@
 # DjangoApp
 
-#Hello Everyone Welcome To Django Hello World App
+# Hello Everyone Welcome To Django Hello World App
 
-#Installation
+# Installation
 
 Requirements
 * Python 3+
